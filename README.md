@@ -16,7 +16,7 @@
 </p>
 
 *A Biological Framework for Understanding Token Flow, Incentive Energy, and the Metabolism of Decentralized Economies*
-
+ 
 ---
 
 # **Abstract**
