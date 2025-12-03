@@ -18,7 +18,7 @@
 *A Biological Framework for Understanding Token Flow, Incentive Energy, and the Metabolism of Decentralized Economies*
  
 ---
-
+ 
 # **Abstract**
 
 Every living organism survives through metabolism, the structured flow of energy through pathways that include storage, release, consumption, repair, and adaptation. Blockchains, despite being digital systems, display eerily similar patterns: tokens circulate, incentives pulse, fees burn, and liquidity pools act as energy reserves.
